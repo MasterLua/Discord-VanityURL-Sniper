@@ -16,7 +16,7 @@
 - 7° Run the script with the argument list.txt (node index.js list.txt)
 - 8° Go to your discord and start sniping URLs ! Have fun !
 
-## Credit
+## Credits
 - 💖 Created by MasterLua
 - 😎 Base : [D0wzy](https://github.com/D0wzy)
 - 😁 Discord : [Redouu#9999](https://discord.com/users/817006812154953749 "Redouu's Discord profile")
