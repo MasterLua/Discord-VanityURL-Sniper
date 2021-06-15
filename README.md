@@ -18,5 +18,5 @@
 
 ## Credit
 - 💖 Create by MasterLua
-- 😎 Base : (D0wzy)[https://github.com/D0wzy)
+- 😎 Base : (D0wzy)[https://github.com/D0wzy]
 - 😁 Discord : Redouu#9999
