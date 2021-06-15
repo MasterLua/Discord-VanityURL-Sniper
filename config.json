@@ -1,0 +1,15 @@
+{
+    "token_switcher": [
+        "token",
+        "token",
+        "token",
+        "token",
+        "token",
+        "token",
+        "token",
+        "token",
+        "token"
+    ],
+    "bot_manager": "token",
+    "channel_success":"id channel"
+}
