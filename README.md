@@ -17,5 +17,5 @@
 - 8° Go to your discord and start sniping URLs ! Have fun !
 
 ## Credit
-💖 Create by MasterLua
-😁 Discord : Redouu#9999
+- 💖 Create by MasterLua
+- 😁 Discord : Redouu#9999
